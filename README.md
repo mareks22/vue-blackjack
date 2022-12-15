@@ -8,6 +8,7 @@
 4) run `npm run start`
 5) Open http://localhost:8080/
 
+## Future plans :
 Missing features that I plan to implement : 
 - Splitting on same card (blackjack rules)
 - Making the web application responsive on all devices
