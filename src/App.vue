@@ -110,7 +110,22 @@ export default {
       acesCount: 0,
       disableButton: false,
       betAmount: 0,
-
+      suits: ["spades", "diamonds", "clubs", "hearts"],
+      values: [
+        "A",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "J",
+        "Q",
+        "K",
+      ],
       message: "",
       winner: "",
     };
